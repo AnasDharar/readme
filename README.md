@@ -26,7 +26,7 @@
 ---
 ### 🔥 Codeforces Streak
 
-![Codeforces Streak](https://streaker.vercel.app/api?handle=yourhandle)
+![Codeforces Streak](https://streaker.vercel.app/api?handle=salaarsenpai)
 
 ---
 ## 📈 GitHub Stats
