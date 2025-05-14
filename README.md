@@ -21,7 +21,7 @@
 - 📫 Reach me at: [mohdanasdharar@gmail.com](mailto:mohdanasdharar@gmail.com)
 ---
 ### 🧠 Codeforces Activity
-![Codeforces Activity Heatmap](https://cf-heatmap.vercel.app/api/salaarsenpai)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=salaarsenpai)
 
 ---
 ### 🔥 Codeforces Streak
