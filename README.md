@@ -20,7 +20,10 @@
 - 💬 Ask me about **Django, Python, and full-stack development**
 - 📫 Reach me at: [mohdanasdharar@gmail.com](mailto:mohdanasdharar@gmail.com)
 ---
+### 🧠 Codeforces Activity
 
+![Codeforces Activity Heatmap](https://cf-heatmap.vercel.app/api/salaarsenpai)
+---
 ## 📈 GitHub Stats
 
 ![Anas' GitHub stats](https://github-readme-stats.vercel.app/api?username=anasdharar&show_icons=true&theme=radical)
